@@ -17,7 +17,7 @@
 
 *What is DQ_Delivery and what business problem does the data platform solve? Who uses the Operations Dashboard and what decisions does it support?*
 
-DQ_Delivery is a project for Spanish delivery company.
+[Your answer]
 
 ### 1.2 Data Sources in Scope
 
